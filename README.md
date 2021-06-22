@@ -9,6 +9,6 @@ The password can include special characters. If you’re unfamiliar with these, 
 
 ### Link to deployed
 
-LIVE URL : 
+LIVE URL : https://dan297.github.io/UNIT-3-PasswordGenerator1/passwordgenerator.html
 
 GITHUB REPO : 
