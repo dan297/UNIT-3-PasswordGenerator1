@@ -66,7 +66,7 @@ function writePassword() {
   );
 
   if (length < 8 || length > 128) {
-    window.prompt("PLEASE PICK A NUMBER BETWEEN 8 - 128.");
+    window.alert("Invalid Criteria");
     writePassword();
   } else {
     var lowercasetrue = confirm("Do you want lowercase lettering");
