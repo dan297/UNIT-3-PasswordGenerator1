@@ -12,7 +12,7 @@
 
 ### Link to deployed
 
-LIVE URL : https://dan297.github.io/UNIT-3-PasswordGenerator1/passwordgenerator.html
+LIVE URL : https://dan297.github.io/UNIT-3-PasswordGenerator1/Passgen.html
 
 GITHUB REPO : https://github.com/dan297/UNIT-3-PasswordGenerator1
 
